@@ -1,0 +1,24 @@
+h1{color: black;/*comentario color nombre*/
+background-color: greenyellow;
+text-align: center;}
+h2{color: brown;
+text-transform: uppercase;}
+p{color: blueviolet;
+text-align: justify;
+line-height: 25px;}
+.destacados{color: blue;
+background-color: burlywood;
+line-height: 25px}
+#divisor{
+    background-color: aquamarine;
+    width: 300px;
+    padding: 20px;
+    
+}
+
+
+
+
+
+
+
